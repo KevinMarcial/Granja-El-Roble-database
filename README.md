@@ -4,7 +4,7 @@
 
 Base de datos orientada a la organización de información de una granja, incluyendo animales, corrales, encargados, alimentos y veterinarios.
 
-## ✨ Características principales
+##  Características principales
 
 -  **Modelado relacional:** organización de entidades y relaciones.
 -  **Integridad de datos:** claves primarias, foráneas y restricciones.
@@ -24,7 +24,7 @@ Git: sistema de control de versiones para registrar cambios en el código.
 
 GitHub: plataforma para alojar el repositorio y compartir el proyecto.
 
-## 💻 SQL aplicado
+##  SQL aplicado
 
 | Categoría | Comandos |
 |---|---|
