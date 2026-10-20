@@ -1,4 +1,4 @@
---Ejercio Practica 2
+
 --Creacion de las tablas de acuerdo a nuestros atributos 
 
 CREATE TABLE animal (id_identificador NUMBER (15),
@@ -201,9 +201,6 @@ FROM user_constraints
 WHERE table_name = 'RELACIONVETERINARIOSANIMALES';
 
 
-
---PRACTICA 2 
---PASO 1
 Describe animal;
 describe corral;
 describe encargado;
@@ -407,7 +404,6 @@ select * from encargado;
 select * from comida;
 select * from veterinario;
 
-//Practica 4 Unidad 2
 
 //Implementacion del sentencia where 
 // Mostramos datos (animlaes) que coincidan con las siguinetes razas
